@@ -1,2 +1,2 @@
-# AProject 4: Picture recognizer
+# Project 4: Picture recognizer
 Using the «Prado Museum Pictures» dataset of Project 3, the task is to implement a deep-learning-based system classifying pictures according to any reasonable organization of classes (e.g., by author–selecting a manageable subset of authors, or by support). Note that the dataset does not directly contain the picture images, but these can be downloaded separately using the work_image_url attribute of the  prado.csv file.
